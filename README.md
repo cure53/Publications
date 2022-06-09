@@ -6,8 +6,6 @@ Click "watch" to get a mail once we publish something fresh.
 
 ## Pentest-Reports & Papers
 
-## Pentest-Reports & Papers
-
 <h4 id="publications-2022">2022</h4>
                 <ul>
                     <li><a href="/cure53/Publications/blob/master/analysis-report_bxaq.pdfsummary-report_realvnc-connect.pdf"><strong>Summary-Report RealVNC VNC Connect</strong> 01.-05.2022</a>
