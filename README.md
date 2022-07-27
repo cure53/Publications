@@ -35,7 +35,6 @@ Click "watch" to get a mail once we publish something fresh.
                     <li><a href="pentest-report_mozilla-vpn.pdf"><strong>Pentest-Report Mozilla VPN Apps & Client</strong> (Mozilla) 03.2021</a></li>
                     <li><a href="pentest-report_lightway.pdf"><strong>Review-Report ExpressVPN Lightway Protocol</strong> 03.2021</a></li>
                     <li><a href="pentest-report_veepn.pdf"><strong>Pentest-Report VeePN Browser Extension</strong> 03.2021</a></li>                    
-                    <li><a href="pentest-report_ledgy.pdf"><strong>Pentest-Report Ledgy Web UI, API & Backend</strong> 03.2021</a></li>                    
                 </ul>
                 <h4 id="publications-2020">2020</h4>
                 <ul>
